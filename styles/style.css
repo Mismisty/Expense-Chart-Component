@@ -46,7 +46,7 @@ img {
 }
 
 .bottom {
-  background-color: white;
+  background-color: hsl(33, 100%, 98%);
   margin: 1rem 0;
   border-radius: 10px;
   padding: 1rem;
